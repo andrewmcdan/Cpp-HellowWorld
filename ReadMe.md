@@ -1,0 +1,1 @@
+Basic Hello World program in C++. Used as an example for cloning a repository and building a project.
